@@ -6,5 +6,6 @@
         <file>Components/TheText/qmldir</file>
         <file>Components/TheText/TheText.qml</file>
         <file>Components/TheText/TheTextForm.ui.qml</file>
+        <file alias="UIProject">UIs.qmlproject</file>
     </qresource>
 </RCC>

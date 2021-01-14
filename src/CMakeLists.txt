@@ -20,7 +20,7 @@ file(COPY ${AllDlls} DESTINATION ${CMAKE_BINARY_DIR}/bin)
 # add_subdirectory( GlobalStruct )
 # add_subdirectory( Models )
 # add_subdirectory( Controllers )
-add_subdirectory( UIs )
+#add_subdirectory( UIs )
 add_subdirectory( Launch )
 
 #设定输出的exe在debug模式下带有"d"后缀
